@@ -29,4 +29,4 @@ O código não compilou e aconteceram vários erros de sintaxe, como o não reco
 
 Questao 8.
 
-Ocorre um erro de compilação seguido da advertência que o tipo público NomeTime, a classe, deve ser definido em seu prórpio arquivo. Isso ocorre pelo fato de que para que uma classe seja efeti
+Ocorre um erro de compilação seguido da advertência que o tipo público NomeTime, a classe, deve ser definido em seu prórpio arquivo. Isso ocorre pelo fato de que para que uma classe seja efetivamente compilada é necessário que ela e o arquivo em que ela foi declarada tenham o mesmo nome.
