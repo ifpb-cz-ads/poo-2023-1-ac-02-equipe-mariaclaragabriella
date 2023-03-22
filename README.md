@@ -7,6 +7,10 @@ Em outras linguagens de programação compiladas como C e Pascal, o código-font
 
 O JRE, ou ambiente de execução Java, é responsável por executar os códigos desenvolvidos em Java. Ele contém uma máquina virtual Java, as bibliotecas e pacotes básicos da linguagem, como o lang, que contém as principais funcionalidades que conhecemos. Já o JDK, ou kit de desenvolvimento Java, é um pacote que pode ser utilizado para desenvolver código em Java. O JDK é composto por compilador, depurador e pelo próprio JRE, o que faz com que seu espaço de armazenamento precise ser maior.
 
+**Questão 3.**
+
+Implementação do que foi pedido no arquivo "PrimeiroPrograma.java"
+
 **Questão 4.**
 
 Apareceu o seguinte erro no terminal: <br>
