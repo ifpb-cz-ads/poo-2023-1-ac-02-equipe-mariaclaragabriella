@@ -9,7 +9,7 @@ O JRE, ou ambiente de execução Java, é responsável por executar os códigos 
 
 **Questão 3.**
 
-Implementação do que foi pedido no arquivo "PrimeiroPrograma.java"
+Implementação do que foi pedido no arquivo "PrimeiroPrograma.java".
 
 **Questão 4.**
 
